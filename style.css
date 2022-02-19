@@ -48,7 +48,7 @@ li {
 }
 
 li:hover {
-    background-color: red;
+    background-color: rgb(124, 120, 120);
 }
 
 .main_info {
@@ -113,7 +113,7 @@ li:hover {
 
 .button {
     padding: 10px 40px;
-    background-color: red;
+    background-color: rgb(136, 132, 132);
     border: 1px solid black;
 }
 
@@ -157,9 +157,6 @@ h2 {
     background-image: url(newCollectionBg.png); 
     background-size: cover;
 }
-
-
-
 @media (max-width: 960px) {
     .container {
         columns: 1;
